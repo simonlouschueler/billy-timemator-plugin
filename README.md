@@ -1,4 +1,4 @@
-# Timemator Import for [Billy](https://usebilly.app)
+# Timemator Importer for [Billy](https://usebilly.app)
 
 A [Billy](https://usebilly.app) plugin that turns a [Timemator](https://timemator.com) CSV export into invoices—one invoice per client, with your tracked time rolled up into line items.
 

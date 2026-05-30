@@ -1,8 +1,8 @@
 {
-  "name": "Timemator Import",
-  "description": "Imports time entries from a Timemator CSV export as new invoice.",
+  "name": "Timemator",
+  "description": "Imports time entries from a Timemator CSV export as new invoices.",
   "version": "1.0.0",
-  "url": "https://github.com/simonlouschueler/billy-timemator-plugin",
+  "url": "https://github.com/usebilly/timemator-plugin",
   "author": "Billy",
   "authorUrl": "https://usebilly.app",
   "fileExtension": "csv"
