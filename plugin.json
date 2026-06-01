@@ -1,4 +1,5 @@
 {
+  "specVersion": 1,
   "name": "Timemator",
   "description": "Imports time entries from a Timemator CSV export as new invoices.",
   "version": "1.0.0",
